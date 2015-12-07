@@ -1,0 +1,12 @@
+My final project is a very simple web-app. At my university, the library is always crowded
+and students often loose a lot of time looking for free seats, going from floor to floor and 
+from on university building or library to another. 
+
+The user need to register/login in order to access my final project. 
+
+My final project allows students who see a free seat to post this by clicking on "Post a spot", he 
+can then report on which campus building, on which floor and how many free spots he spotted. 
+If the student is looking for a free seat, he shall click on "Look for a spot" and enter the university building
+he is interested in finding a free spot in. 
+
+if any questions are unsawered do not hesitate to contact me: batiste.haller@sciencespo.fr

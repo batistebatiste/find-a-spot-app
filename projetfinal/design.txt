@@ -1,0 +1,3 @@
+I coded my final project in html/css and php. 
+I used mysql in order to store the informations (free seats and users) needed.
+I used some ideas/design decisions from pset7 to do my final project. 

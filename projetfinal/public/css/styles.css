@@ -1,0 +1,93 @@
+/**
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ */
+
+
+
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+}
+
+
+
+.wrapper {
+        text-align: center;
+}
+.wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+}
+.wrapper li {
+        float: left;
+        padding: 2px 5px;
+                color: #424242;
+}
+
+th {
+   text-align: center;
+}
+
+.titre {
+        color: #424242;
+        font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	letter-spacing:0.1em;
+	text-align:center;
+	margin: 40px auto;
+	text-transform: lowercase;
+	line-height: 145%;
+	font-size: 20pt;
+	font-variant: small-caps;
+        }
+        
+.petit
+{
+ 	font-size: 12pt;
+}
+
+body
+{
+        color: #424242;
+        background-image:url("/img/halftone.png");
+}        
+
+img.imgBox
+{
+   padding: 5px;
+   border: 1px solid #AABAC5;
+   background-color: #EEE;
+}
+
+
+
